@@ -1,0 +1,12 @@
+[main]
+Class="Function"
+Prototype="int main(int argc, char **argv);"
+
+[OnLoadButtonCB]
+Class="Function"
+Prototype="int OnLoadButtonCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[OnPanel]
+Class="Function"
+Prototype="int OnPanel(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+

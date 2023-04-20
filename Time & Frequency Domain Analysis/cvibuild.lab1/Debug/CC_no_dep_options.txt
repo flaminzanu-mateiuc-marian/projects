@@ -1,0 +1,1 @@
+-force-include-file "lab1.c";"c:\Users\Marian\Desktop\APD\Proiect lab1\lab1.c" -force-include-file "lab1.h";"c:\Users\Marian\Desktop\APD\Proiect lab1\lab1.h" 
