@@ -1,0 +1,85 @@
+/* App.css */
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Arial', sans-serif;
+}
+
+ul {
+  list-style-type: none;
+  padding: 10px;
+  margin: 0 auto; 
+  max-width: 400px; 
+  background-color: white;
+  border-radius: 10px;
+  border: 1px solid #000; /* Add a black border */
+}
+
+li {
+  border: 1px solid #000; /* Add a black border */
+  background-color: rgb(255, 245, 170);
+  color: black;
+  margin-bottom: 8px;
+  padding: 8px;
+  border-radius: 5px;
+}
+
+
+
+.App {
+  text-align: center;
+  background-image: url('hospital.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh; /* Ensure the container takes at least the full height of the viewport */
+  margin: 0;
+}
+
+.App-header {
+  padding: 20px;
+}
+
+h1 {
+  font-size: 2.5em;
+  margin-bottom: 10px;
+  color: #333; /* Change the color to your preference */
+}
+
+h2 {
+  font-size: 2em;
+  margin-bottom: 20px;
+  color: #555; /* Change the color to your preference */
+}
+
+button {
+  background-color: #007BFF;
+  color: #fff;
+  padding: 10px 20px;
+  font-size: 1em;
+  text-decoration: none;
+  border: 2px solid #000; /* Add a black border */
+  cursor: pointer;
+  border-radius: 5px;
+  margin-right: 10px; /* Add some space between buttons */
+}
+
+button:last-child {
+  margin-right: 0; /* Remove margin-right for the last button to avoid extra space */
+}
+
+.App-link {
+  background-color: #007BFF; /* Change the background color to your preference */
+  color: #fff; /* Change the text color to your preference */
+  padding: 10px 20px;
+  font-size: 1em;
+  text-decoration: none;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.App-link:hover {
+  background-color: #0056b3; /* Change the background color on hover */
+}

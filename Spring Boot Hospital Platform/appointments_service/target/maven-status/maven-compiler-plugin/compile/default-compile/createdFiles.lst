@@ -1,0 +1,7 @@
+com/hospital/appointments_service/repositories/AppointmentRepository.class
+com/hospital/appointments_service/services/AppointmentService.class
+com/hospital/appointments_service/services/AppointmentServiceImpl.class
+com/hospital/appointments_service/dto/AppointmentDTO.class
+com/hospital/appointments_service/controllers/AppointmentController.class
+com/hospital/appointments_service/AppointmentsServiceApplication.class
+com/hospital/appointments_service/dto/AppointmentDTO$AppointmentKey.class

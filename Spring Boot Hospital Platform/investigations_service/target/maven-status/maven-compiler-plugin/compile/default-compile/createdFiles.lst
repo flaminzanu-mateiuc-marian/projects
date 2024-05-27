@@ -1,0 +1,4 @@
+com/hospital/investigations_service/dto/InvestigationsDTO.class
+com/hospital/investigations_service/repository/InvestigationsRepository.class
+com/hospital/investigations_service/InvestigationsServiceApplication.class
+com/hospital/investigations_service/controllers/InvestigationsController.class

@@ -1,0 +1,6 @@
+com/hospital/physician_service/services/PhysicianService.class
+com/hospital/physician_service/repositories/PhysicianRepository.class
+com/hospital/physician_service/controllers/PhysicianController.class
+com/hospital/physician_service/PhysicianServiceApplication.class
+com/hospital/physician_service/services/PhysicianServiceImpl.class
+com/hospital/physician_service/dto/PhysicianDTO.class

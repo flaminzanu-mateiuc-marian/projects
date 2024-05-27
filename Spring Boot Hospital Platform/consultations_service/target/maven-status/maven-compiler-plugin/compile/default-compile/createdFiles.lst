@@ -1,0 +1,5 @@
+com/hospital/consultations_service/repository/ConsultationRepository.class
+com/hospital/consultations_service/controllers/ConsultationController.class
+com/hospital/consultations_service/dto/ConsultationDTO.class
+com/hospital/consultations_service/ConsultationsServiceApplication.class
+com/hospital/consultations_service/dto/ConsultationDTO$Diagnostic.class

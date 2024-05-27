@@ -1,0 +1,22 @@
+syntax = "proto3";
+option java_package = "com.hospital.user_service.grpc";
+
+service AuthenticationService{
+  rpc authenticate (AuthenticationRequest) returns (AuthenticationResponse){}
+  rpc validate (ValidateRequest) returns (ValidateResponse){}
+}
+
+message AuthenticationRequest{
+  string username = 1;
+  string password = 2;
+}
+message AuthenticationResponse{
+  string token = 1;
+}
+
+message ValidateRequest{
+  string valid = 1;
+}
+message ValidateResponse{
+  string valid = 1;
+}

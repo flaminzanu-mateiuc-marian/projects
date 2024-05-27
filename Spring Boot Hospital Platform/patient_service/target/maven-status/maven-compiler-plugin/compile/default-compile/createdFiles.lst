@@ -1,0 +1,6 @@
+com/hospital/patient_service/services/PatientService.class
+com/hospital/patient_service/dto/PatientDTO.class
+com/hospital/patient_service/repositories/PatientRepository.class
+com/hospital/patient_service/services/PatientServiceImpl.class
+com/hospital/patient_service/PatientServiceApplication.class
+com/hospital/patient_service/controllers/PatientController.class

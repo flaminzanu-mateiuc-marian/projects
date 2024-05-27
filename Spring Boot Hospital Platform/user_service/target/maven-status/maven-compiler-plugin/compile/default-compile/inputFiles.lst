@@ -1,0 +1,9 @@
+/Users/marian/Proiecte/POS/proiect/activitate-proiect-laborator-2023-2024-marian-flaminzanu-mateiuc/user_service/src/main/java/com/hospital/user_service/controllers/UserController.java
+/Users/marian/Proiecte/POS/proiect/activitate-proiect-laborator-2023-2024-marian-flaminzanu-mateiuc/user_service/src/main/java/com/hospital/user_service/dto/UserDTO.java
+/Users/marian/Proiecte/POS/proiect/activitate-proiect-laborator-2023-2024-marian-flaminzanu-mateiuc/user_service/src/main/java/com/hospital/user_service/grpc/AuthenticationServiceGrpc.java
+/Users/marian/Proiecte/POS/proiect/activitate-proiect-laborator-2023-2024-marian-flaminzanu-mateiuc/user_service/src/main/java/com/hospital/user_service/grpc/Identity.java
+/Users/marian/Proiecte/POS/proiect/activitate-proiect-laborator-2023-2024-marian-flaminzanu-mateiuc/user_service/src/main/java/com/hospital/user_service/UserServiceApplication.java
+/Users/marian/Proiecte/POS/proiect/activitate-proiect-laborator-2023-2024-marian-flaminzanu-mateiuc/user_service/src/main/java/com/hospital/user_service/services/UserServiceImpl.java
+/Users/marian/Proiecte/POS/proiect/activitate-proiect-laborator-2023-2024-marian-flaminzanu-mateiuc/user_service/src/main/java/com/hospital/user_service/services/UserService.java
+/Users/marian/Proiecte/POS/proiect/activitate-proiect-laborator-2023-2024-marian-flaminzanu-mateiuc/user_service/src/main/java/com/hospital/user_service/repositories/UserRepository.java
+/Users/marian/Proiecte/POS/proiect/activitate-proiect-laborator-2023-2024-marian-flaminzanu-mateiuc/user_service/src/main/java/com/hospital/user_service/services/AuthenticationServiceImpl.java
