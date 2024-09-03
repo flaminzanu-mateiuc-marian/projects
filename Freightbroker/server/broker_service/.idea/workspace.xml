@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="138ceb52-6c8d-47e3-aba8-c1e98142e181" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../client/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../client/src/HomeCustomer.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../client/src/HomeCustomer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../client/src/HomeTransporter.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../client/src/HomeTransporter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../client/src/LoginForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../client/src/LoginForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../client/src/MyAccount.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../client/src/MyAccount.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/freightbroker/broker_service/controller/BrokerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/freightbroker/broker_service/controller/BrokerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/freightbroker/broker_service/controller/BrokerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/freightbroker/broker_service/controller/BrokerController.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Dockerfile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2cgFvDElaZsBZSg220ctiOz74A3" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/marian/proiecte/licenta/freightbroker_license/server/broker_service/src/main/java/com/freightbroker/broker_service/service&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;profiler.jvm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mariadb&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/freightbroker/broker_service/service" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.freightbroker.broker_service.entity" />
+      <recent name="com.freightbroker.broker_service.repository" />
+      <recent name="com.freightbroker.user_service.entity" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean install -U" />
+      <command value="mvn mvn clean compile assembly:single" />
+      <command value="mvn clean compile assembly:single" />
+      <command value="mvn spring-boot:run" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.BrokerServiceApplication">
+    <configuration name="GeoToolsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.freightbroker.broker_service.GeoToolsExample" />
+      <module name="broker_service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.freightbroker.broker_service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.freightbroker.broker_service.service.GeocodingExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.freightbroker.broker_service.service.GeocodingExample" />
+      <module name="broker_service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.freightbroker.broker_service.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BrokerServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="broker_service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.freightbroker.broker_service.BrokerServiceApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.freightbroker.broker_service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="containerName" value="" />
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="dockerfile" temporary="true">
+      <deployment type="dockerfile">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.BrokerServiceApplication" />
+        <item itemvalue="Docker.Dockerfile" />
+        <item itemvalue="Docker.docker-compose.yml: Compose Deployment" />
+        <item itemvalue="Application.com.freightbroker.broker_service.service.GeocodingExample" />
+        <item itemvalue="Application.GeoToolsExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="138ceb52-6c8d-47e3-aba8-c1e98142e181" name="Changes" comment="" />
+      <created>1708525542806</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708525542806</updated>
+      <workItem from="1708525543788" duration="6359000" />
+      <workItem from="1708693176741" duration="2080000" />
+      <workItem from="1708954231564" duration="995000" />
+      <workItem from="1709117101327" duration="600000" />
+      <workItem from="1709122157120" duration="2399000" />
+      <workItem from="1709143155814" duration="2030000" />
+      <workItem from="1709212889534" duration="14987000" />
+      <workItem from="1709299505268" duration="1028000" />
+      <workItem from="1709455329679" duration="625000" />
+      <workItem from="1709462685440" duration="645000" />
+      <workItem from="1709470836845" duration="9629000" />
+      <workItem from="1709568275155" duration="1198000" />
+      <workItem from="1709579142777" duration="599000" />
+      <workItem from="1709719650315" duration="775000" />
+      <workItem from="1709720453826" duration="8045000" />
+      <workItem from="1709743235050" duration="710000" />
+      <workItem from="1709760174271" duration="624000" />
+      <workItem from="1709791392130" duration="1087000" />
+      <workItem from="1709808074099" duration="989000" />
+      <workItem from="1709982026632" duration="1550000" />
+      <workItem from="1709990941538" duration="5589000" />
+      <workItem from="1710149104802" duration="656000" />
+      <workItem from="1710172119135" duration="598000" />
+      <workItem from="1710782802740" duration="4702000" />
+      <workItem from="1711041903902" duration="404000" />
+      <workItem from="1711095058889" duration="8690000" />
+      <workItem from="1711277236994" duration="7418000" />
+      <workItem from="1711479669921" duration="2580000" />
+      <workItem from="1711629680627" duration="2594000" />
+      <workItem from="1711642120832" duration="5453000" />
+      <workItem from="1711990170059" duration="7557000" />
+      <workItem from="1712002308990" duration="5103000" />
+      <workItem from="1712076647188" duration="7726000" />
+      <workItem from="1712740480371" duration="4439000" />
+      <workItem from="1712849331281" duration="6166000" />
+      <workItem from="1712922612134" duration="755000" />
+      <workItem from="1713772776050" duration="8528000" />
+      <workItem from="1713788891809" duration="4195000" />
+      <workItem from="1713814701353" duration="2279000" />
+      <workItem from="1714037380603" duration="2912000" />
+      <workItem from="1714495378838" duration="258000" />
+      <workItem from="1715776384255" duration="766000" />
+      <workItem from="1716199271617" duration="3594000" />
+      <workItem from="1716309759894" duration="2875000" />
+      <workItem from="1716365434183" duration="10372000" />
+      <workItem from="1716447366078" duration="3380000" />
+      <workItem from="1716454960371" duration="1788000" />
+      <workItem from="1716580773578" duration="50000" />
+      <workItem from="1716580854712" duration="2615000" />
+      <workItem from="1716832480573" duration="1197000" />
+      <workItem from="1716847521483" duration="52000" />
+      <workItem from="1716931492031" duration="269000" />
+      <workItem from="1716999612227" duration="3041000" />
+      <workItem from="1717049683698" duration="52000" />
+      <workItem from="1717049768158" duration="10393000" />
+      <workItem from="1717138683609" duration="8811000" />
+      <workItem from="1717163349852" duration="12000" />
+      <workItem from="1717681994444" duration="454000" />
+      <workItem from="1717854841465" duration="624000" />
+      <workItem from="1717926825230" duration="462000" />
+      <workItem from="1717927309448" duration="2424000" />
+      <workItem from="1718208396340" duration="4218000" />
+      <workItem from="1718263462564" duration="7420000" />
+      <workItem from="1718358748442" duration="4032000" />
+      <workItem from="1718608318373" duration="6303000" />
+      <workItem from="1718619921690" duration="3449000" />
+      <workItem from="1718691735013" duration="12535000" />
+      <workItem from="1718783144794" duration="14017000" />
+      <workItem from="1719054317438" duration="11026000" />
+      <workItem from="1719125316853" duration="5232000" />
+      <workItem from="1719506263232" duration="2076000" />
+      <workItem from="1719557600364" duration="1261000" />
+      <workItem from="1719562978867" duration="622000" />
+      <workItem from="1719563949834" duration="1293000" />
+      <workItem from="1720099592933" duration="2256000" />
+      <workItem from="1720116479741" duration="869000" />
+      <workItem from="1720352915130" duration="4145000" />
+      <workItem from="1720417927065" duration="8870000" />
+      <workItem from="1720435567127" duration="5897000" />
+      <workItem from="1720945770335" duration="11000" />
+      <workItem from="1720946366824" duration="11000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

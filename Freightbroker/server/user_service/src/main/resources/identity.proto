@@ -1,0 +1,23 @@
+syntax = "proto3";
+option java_package = "com.freightbroker.customer_service.grpc";
+
+service AuthenticationService{
+  rpc authenticate (AuthenticationRequest) returns (AuthenticationResponse){}
+  rpc validate (ValidateRequest) returns (ValidateResponse){}
+}
+
+message AuthenticationRequest{
+  string email = 1;
+  string password = 2;
+  string user_type = 3;
+}
+message AuthenticationResponse{
+  string token = 1;
+}
+
+message ValidateRequest{
+  string valid = 1;
+}
+message ValidateResponse{
+  string valid = 1;
+}
